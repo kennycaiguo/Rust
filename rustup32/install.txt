@@ -1,8 +1,15 @@
-Rust is installed now. Great!==��װ���
+# 注意，安装rust之前，一定要安装vs2013或以上的版本，一定要安装nightly版本，rust的linker要依赖vs2013的builder
+
+
+Rust is installed now. Great!==安装完毕
+
 
 To get started you need Cargo's bin directory (%USERPROFILE%.cargo\bin) in your
-PATH ==��Ҫ���û�������
-environment variable. Future applications will automatically have the
+#
+ PATH ==需要配置环境变量
+environment variable. 
+Future applications will automatically have the
 correct environment, but you may need to restart your current shell.
+
 
 Press the Enter key to continue.
