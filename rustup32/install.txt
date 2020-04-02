@@ -1,0 +1,8 @@
+Rust is installed now. Great!==安装完毕
+
+To get started you need Cargo's bin directory (%USERPROFILE%.cargo\bin) in your
+PATH ==需要配置环境变量
+environment variable. Future applications will automatically have the
+correct environment, but you may need to restart your current shell.
+
+Press the Enter key to continue.

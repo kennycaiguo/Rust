@@ -1,0 +1,13 @@
+解决error: no default toolchain configured
+1.在d盘创建一个目录D:\Program Files\Rust
+2 win+r ，输入cmd回车
+C:\Users\Administrator.WIN-5C4763I7IR8>rustup toolchain link mygnutoolchain "C:\Users\Administrator.WIN-5C4763I7IR8\.rustup\toolchains\stable-x86_64-pc-windows-msvc"
+
+3. C:\Users\Administrator.WIN-5C4763I7IR8>rustup default mygnutoolchain
+
+4.查看
+C:\Users\Administrator.WIN-5C4763I7IR8>rustup show
+
+
+
+ 
